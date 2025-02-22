@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @arnav-jagtap-iitgn
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on website building
 - 📫 How to reach me: arnavjagtapiit@gmail.com
 
 <!---
